@@ -1,3 +1,17 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Akash Bharangar Banner" width="100%">
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer;GenAI+Engineer;RAG+Systems;AI+Agents;LLM+Applications" />
+</p>
+<p align="center">
+  <a href="mailto:akashbharangar10@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/akash-bharangar-757440186/">LinkedIn</a> •
+  <a href="https://github.com/akashbharangar">GitHub</a> •
+  <a href="https://x.com/akaaaaashhhhh">X/Twitter</a> •
+  <a href="https://drive.google.com/drive/folders/182MYpC_CNeISP0jPAcrTV_zvnAxp2BKe">Resume</a>
+</p>
+
 # Hi, I'm Akash Bharangar 👋
 
 ### AI Engineer | GenAI Engineer | Building AI Agents, RAG Systems & Autonomous Workflows
