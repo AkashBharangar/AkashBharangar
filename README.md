@@ -57,42 +57,6 @@ I build production-ready AI systems powered by Large Language Models (LLMs), Ret
 
 ---
 
-## 🚀 Featured Projects
-
-### 🌐 Website Crawlr
-
-AI-powered website knowledge extraction and RAG system that converts websites into searchable knowledge bases.
-
-**Highlights**
-
-* Automated website crawling and content extraction
-* Semantic search using embeddings and vector retrieval
-* ChromaDB-powered knowledge storage
-* Context-aware retrieval for grounded responses
-* End-to-end RAG architecture
-
-**Tech**
-`Python` `LangChain` `ChromaDB` `Sentence Transformers` `RAG`
-
----
-
-### 🤖 Research Agent
-
-Multi-agent AI research system that autonomously gathers, analyzes, and synthesizes information.
-
-**Highlights**
-
-* Tool-calling based agent workflows
-* Automated web research pipeline
-* Information extraction and synthesis
-* Research quality review stage
-* Modular multi-agent architecture
-
-**Tech**
-`Python` `LLMs` `AI Agents` `LangChain` `Prompt Engineering`
-
----
-
 ## 📈 What I'm Currently Learning
 
 * Advanced RAG Architectures
@@ -117,34 +81,6 @@ Multi-agent AI research system that autonomously gathers, analyzes, and synthesi
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashbharangar&layout=compact" />
 </p>
-
----
-
-## 🎯 Current Focus
-
-```text
-Building Production AI Systems
-
-User
- ↓
-Retriever
- ↓
-Vector Database
- ↓
-LLM
- ↓
-Grounded Response
-```
-
-```text
-Planner Agent
-      ↓
-Research Agent
-      ↓
-Reviewer Agent
-      ↓
-Final Output
-```
 
 ---
 
